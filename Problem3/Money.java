@@ -12,7 +12,7 @@ public class Money {
    
     }
 
-    // copy constructor
+    // copy constructor (for encapsulation)
     public Money(Money other){
         this.dollars = other.dollars;
         this.cents = other.cents;

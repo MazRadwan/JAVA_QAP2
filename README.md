@@ -14,3 +14,14 @@
 - MyRectagle/MyPoint Class
 - TestMyRectangle
 - screenshot of output
+
+## Problem 3
+
+- CreditCard class
+- Money Class
+- Person Class
+- Address Class
+- CreditCardDemo Class
+- screenshot of output
+
+**Questionnaire**
