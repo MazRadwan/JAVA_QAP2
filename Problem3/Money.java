@@ -1,4 +1,4 @@
-package Problem3;
+package problem3;
 
 public class Money {
     private long dollars;
